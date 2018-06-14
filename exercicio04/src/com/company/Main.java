@@ -1,10 +1,7 @@
 package com.company;
-
 import java.util.Scanner;
-import java.util.function.IntToDoubleFunction;
 
 public class Main {
-
     public static void main(String[] args) {
 	// write your code here
         Scanner sc = new Scanner(System.in);
@@ -13,7 +10,6 @@ public class Main {
 
         System.out.println(verificaInteiro(numero));
     }
-
     private static String verificaInteiro(Float numero){
         Float resultado =  numero % 1.0f;
         if (resultado == 0.0f)
