@@ -11,6 +11,7 @@ public class Main {
         parouimpar(numero);
     }
 
+    // FUNÇÃO QUE CALCULA SE O NUMERO É PAR OU IMPAR!
     private static void parouimpar(Integer numero){
         switch (numero%2){
             case 0: System.out.print("o Numero é par!"); break;
