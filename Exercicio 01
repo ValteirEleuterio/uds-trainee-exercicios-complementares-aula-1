@@ -1,0 +1,10 @@
+1- O que são variáveis, e quais os seus tipos?
+Variável é um espaço na memória capaz de armazenar valores.
+Os tipos de variáveis são: 
+* String : recebem texto;
+* Boolean: recebem verdadeiro ou falso(true, false);
+* Numeric: Numeros;
+* Integer: Inteiros;
+* Float: Numeros decimais
+* Array: Listas;
+* Object: Objetos;
